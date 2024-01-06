@@ -4,13 +4,13 @@ Welcome to my GoLang study repository! This collection of projects showcases my 
 
 ## Table of Contents
 
-- [Project 1: Project Name](#project-1-project-name)
+- [GolangByExample: GolangByExample](#golangbyexample-golangbyexample)
 - [Project 2: Project Name](#project-2-project-name)
 - [Project 3: Project Name](#project-3-project-name)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project 1: Project Name
+## GolangByExample: GolangByExample
 
 Description: Brief description of the project, its purpose, and what I learned while working on it.
 
